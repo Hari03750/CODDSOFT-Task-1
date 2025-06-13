@@ -81,7 +81,7 @@ Both models performed well, with *Random Forest* achieving higher accuracy on va
 
 If you prefer running this on Google Colab, open with:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/CODSOFT/blob/main/Titanic_Survival_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hari03750/CODSOFT-Task-1/blob/main/Titanic_Survival_Prediction.ipynb)
 
 > Replace YOUR_USERNAME with your actual GitHub username after uploading the notebook.
 
