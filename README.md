@@ -1,4 +1,4 @@
-# CODDSOFT-Task-1
+# CODSOFT-Task-1
 # 🚢 Titanic Survival Prediction - CODSOFT Internship Task 1
 
 This project is part of the *CODSOFT Data Science Internship*. The task involves building a machine learning model using the Titanic dataset to predict whether a passenger survived or not.
