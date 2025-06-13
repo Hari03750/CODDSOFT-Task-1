@@ -77,12 +77,13 @@ Both models performed well, with *Random Forest* achieving higher accuracy on va
 
 ---
 
-## 🔗 Colab Access
 
 ## 🔗 Colab Access
 If you prefer running this on Google Colab, open with:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hari03750/CODSOFT-Task-1/blob/main/Titanic_Survival_Prediction.ipynb)
 
+]
 
 
 
